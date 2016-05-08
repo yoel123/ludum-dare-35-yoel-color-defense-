@@ -32,5 +32,5 @@ when you hover red with red powerup it explodes after 3 seconds,blue shrinks and
 there is no goal or points yet i didnt get to that part of the game and wanted to keep the scope as small as possible.
 
 <b>play:</b>
-https://cdn.rawgit.com/yoel123/ludum-dare-35-yoel-color-defense-/master/index.html
+https://cdn.rawgit.com/yoel123/ludum-dare-35-yoel-color-defense-/master/indexb.html
 
